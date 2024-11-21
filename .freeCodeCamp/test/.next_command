@@ -9,3 +9,7 @@ git merge feat/add-gitignore
 git branch -d feat/add-gitignore
 git log --oneline
 git log
+git config pull.rebase false
+git config pull.rebase true
+git config pull.ff only
+git commit -m "final commit"
