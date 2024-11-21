@@ -1,3 +1,5 @@
 git add sample.env
 git commit -m "feat: add sample.env"
 git log -5 --oneline
+git rebase --interactive
+git rebase --interactive HEAD~2
