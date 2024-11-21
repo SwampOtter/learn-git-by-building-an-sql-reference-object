@@ -1,1 +1,2 @@
 git add sample.env
+git commit -m "feat: add sample.env"
